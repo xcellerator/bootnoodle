@@ -3,7 +3,7 @@
 
 So named because the execution flow jumps around between reversed and non-reversed op codes in a noodly-tangle.
 
-Please find a write-up of how I built this bootloader here: [XXX](xxx)
+Please find a write-up of how I built this bootloader here: [xcellerator.github.io](https://xcellerator.github.io/posts/bggp/)
 
 ![alt text](./bootnoodle.png "BootNoodle")
 
