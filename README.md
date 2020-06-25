@@ -20,7 +20,6 @@ Source: [src/bootnoodle.asm](src/bootnoodle.asm)
 * Run with `qemu-system-x86_64 bin/bootnoodle.bin`
 
 ### SHA256 Sums
-Computed with [sums.sh](sums.sh).
- 
+
 * Forward:	`afd35223493930d7ea455b2352627783bfd53ddc54789cc3d81137da1ec3ac51`
 * Backward:	`afd35223493930d7ea455b2352627783bfd53ddc54789cc3d81137da1ec3ac51`
