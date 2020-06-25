@@ -1,3 +1,7 @@
+; BootNoodle
+; A Palindromic Bootloader for the BGGP Competition
+; github.com/xcellerator/bootnoodle
+
 org 0x7C00
 bits 16
 
