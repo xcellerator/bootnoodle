@@ -1,14 +1,23 @@
 # BootNoodle
 ## A Palindromic Bootloader for [BGGP](https://n0.lol/bggp/)
 
+So named because the execution flow jumps around between reversed and non-reversed op codes in a noodly-tangle.
+
 Please find a write-up of how I built this bootloader here: [XXX](xxx)
 
+![alt text](./bootnoodle.png "BootNoodle")
+
+### Submission
 
 Binary: [bin/bootnoodle.bin](bin/bootnoodle.bin)
 
 Source: [src/bootnoodle.asm](src/bootnoodle.asm)
 
-![alt text](./bootnoodle.png "BootNoodle")
+### Build Instructions
+
+* Run [build.sh](build.sh) after cloning
+* Check sums below with [sums.sh](sums.sh)
+* Run with `qemu-system-x86_64 bin/bootnoodle.bin`
 
 ### SHA256 Sums
 Computed with [sums.sh](sums.sh).
